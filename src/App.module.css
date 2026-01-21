@@ -1,0 +1,10 @@
+.app {
+  min-height: 100vh;
+}
+
+.loading {
+  text-align: center;
+  padding: 40px;
+  color: #213547;
+  font-size: 18px;
+}
